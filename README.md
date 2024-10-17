@@ -1,6 +1,6 @@
 # CUB3D
 
-![cub3D Demo](https://github.com/iobba/cub3d/blob/master/VID-20230416-WA0001-ezgif.com-video-to-gif-converter.gif)
+![cub3D Demo](https://github.com/Ayoubioussoufa/cub3d/blob/main/VID-20230416-WA0001-ezgif.com-video-to-gif-converter.gif)
 
 ## About cub3D
 
@@ -32,7 +32,7 @@ To compile and run cub3D, follow these steps:
 
 1. **Clone the Repository**:
     ```sh
-    git clone git@github.com:iobba/cub3d.git
+    git clone git@github.com:ayoubioussoufa/cub3d.git
     cd cub3D
     ```
 
